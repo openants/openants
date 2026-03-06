@@ -1,4 +1,4 @@
-# 🦞 OpenClaw — Personal AI Assistant
+# 🦞 OpenAnts — Personal AI Slave 
 
 <p align="center">
     <picture>
