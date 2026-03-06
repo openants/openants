@@ -1,4 +1,4 @@
-# 🦞 OpenAnts — Personal AI Slave 
+# 🦞 OpenAnts — Personal AI Slave  Build your kingdom with AI slave working day and night without sleep
 
 <p align="center">
     <picture>
