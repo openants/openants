@@ -1,4 +1,3 @@
-```markdown
 # 🐜 OpenAnts — Personal AI Slave  
 Build your kingdom with AI slaves working day and night without sleep — an ant colony that never rests.
 
@@ -303,13 +302,4 @@ by YOUR NAME and the community.
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.  
 AI/vibe-coded PRs welcome! 🤖
 
-Special thanks to all **antributors**:
 
-*(contributor avatars list remains the same — just replace the heading)*
-```
-
-**使用说明**（复制上面全部内容即可）：
-- 把 `YOURUSERNAME` 全部替换成你的 GitHub 用户名。
-- 把图片路径换成你实际上传到新仓库的 logo 文件。
-- Discord 链接换成你新建的服务器邀请链接。
-- 需要更激进的奴隶宣言版本或进一步润色，随时告诉我，我立刻再给你迭代！🐜
